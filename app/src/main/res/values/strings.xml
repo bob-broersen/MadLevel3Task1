@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MadLevel3Task1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="start_fragment_label_first">Welcome to the Games Rating app!</string>
+    <string name="start_fragment_label_second">Click START to start rating :)</string>
+    <string name="rate_fragment_label_first">Rate the following game from 1 to 5 stars!</string>
+    <string name="start_fragment_btn">START</string>
+    <string name="rate_fragment_btn">SUMMARY</string>
+    <string name="start_over">START OVER</string>
+</resources>
